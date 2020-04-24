@@ -1,7 +1,25 @@
-body{
-    background-color: black;
+
+.card{
+    width: 400px;
+    height: 300px;
+    text-align: center;   
 }
+
 img{
-    width: 200px;
+    align-self: center;
+    width: 300px;
     height: 200px;
+    margin: 6px;
+}
+button{
+    margin: 3px;
+}
+.container{
+    margin: auto;
+}
+footer{
+    background-color: rgb(212, 198, 178);
+}
+.box{
+    justify-content: space-between;
 }
